@@ -1,7 +1,7 @@
 # Assesment
 
 # Trade Data Analysis
-Overview
+## Overview
 
 This assignment focuses on analyzing trade data from the provided etrm_trades.csv file.
 The tasks include data cleaning, exploration, and visualization to derive meaningful insights into trade patterns.
@@ -16,7 +16,7 @@ analysis_notebook.ipynb → Jupyter Notebook containing Python code for analysis
 
 supporting_images/ → Screenshots and visualizations used in the report.
 
-Steps Performed
+## Steps Performed
 1. Data Loading
 
 Loaded trade data from etrm_trades.csv using pandas.
@@ -56,7 +56,7 @@ Histogram of Notional Values
 
 Shows the frequency distribution of trade notionals.
 
-Heatmap
+## Heatmap
 
 Highlights correlation between trade attributes.
 
@@ -64,7 +64,7 @@ Commodity vs Trade ID
 
 Displays activity levels for different commodities.
 
-How to Run
+## How to Run
 
 Install dependencies:
 
@@ -80,7 +80,7 @@ Run cells sequentially to reproduce results.
 
 Report (trade_analysis_report.pdf) will be generated automatically.
 
-Conclusion
+## Conclusion
 
 This assignment demonstrated:
 
